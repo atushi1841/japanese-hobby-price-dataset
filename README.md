@@ -46,3 +46,12 @@ CC BY-NC 4.0（非-commercial利用限定。commercial利用の場合は別途�
 
 *Kensho Project — 日本のデータを、世界に。*
 *GitHub: https://github.com/atushi1841*
+---
+
+## Apify Store
+
+このリポジトリの Actor は [Apify Store](https://apify.com/fruitful_quintessence) で公開中です。
+日本の EC・市場データ収集（Mercari, Yahoo Auctions, Rakuten, SUUMO, DLsite 等）に対応した Apify Actor ディレクトリです。
+
+**Search keywords**: Japan market data, Japanese e-commerce scraping, Apify actors, mercari scraper, rakuten scraper, yahoo auctions japan, suumo real estate, dlsite scraper
+
