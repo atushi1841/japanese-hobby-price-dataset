@@ -2,6 +2,10 @@
 
 **価格: $29.99** | [Gumroadで購入](https://atushi5.gumroad.com/l/agyhq) | [Apify Store](https://apify.com/store/actor/kensho-japanese-hobby-price-dataset)
 
+
+---
+
+- [Hugging Face Dataset (サンプル)](https://huggingface.co/datasets/saboten1/japan-hobby-collectibles-prices-sample) — 週次更新の CSV サンプル（200行）。[Gumroad 全量版](https://gumroad.com/l/japan-hobby-prices-full) と互換。
 ## 何が入っているか
 
 日本の中古市場（アニメフィギュア・ホビーグッズ・Collectibles）の価格データを**週次更新**で提供するCSVデータセット。
